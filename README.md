@@ -33,6 +33,11 @@ SMAPE(Symmetric Mean Absolute Percentage Error)
 
 <br>
 
+### 🎈 사용한 모델
+XGBoost Regressor
+
+<br>
+
 ## ⭐ 결과
 ![image](https://github.com/12L-zl/Dacon_Power-usage-AI/assets/137811485/d0a059eb-c087-4b10-bdaa-6b9667b73576)
   
