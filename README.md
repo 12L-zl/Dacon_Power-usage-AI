@@ -31,6 +31,8 @@ SMAPE(Symmetric Mean Absolute Percentage Error)
 **Mean[ (|y - pred|) / {(|y| + |pred|) / 2} * 100 ]**
 - 외부 데이터 사용 금지
 
+<br>
+
 ## ⭐ 결과
 ![image](https://github.com/12L-zl/Dacon_Power-usage-AI/assets/137811485/d0a059eb-c087-4b10-bdaa-6b9667b73576)
   
